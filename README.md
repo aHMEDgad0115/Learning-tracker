@@ -37,4 +37,4 @@ Brief overview of projects (detailed in PROJECTS.md)
 
 ## Contact
 ## For collaboration/feedback
-- **Mobile & Watsapp** : [01017982868](wa/01017982868)
+- **Mobile & Watsapp** : [01017982868](https://wa.me/01017982868)
