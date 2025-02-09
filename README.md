@@ -39,4 +39,4 @@ Brief overview of projects (detailed in PROJECTS.md)
 ## For collaboration/feedback
 - **Mobile & Watsapp** : [01017982868](https://wa.me/01017982868)
 - **Linkedin** : [Ahmed Gad](https://www.linkedin.com/in/ahmedgad01154/)
-- **Email** : <a href="mailto:ahmed.gad.masadeh@gmail.com">ahmed.gad.masadeh<span>@</span>gmail.com</a>
+- **Email** : <a href="mailto:ahmed.gad.masadeh@gmail.com">ahmed<span>.</span>gad<span>.</span>masadeh<span>@</span>gmail<span>.</span>com</a>
